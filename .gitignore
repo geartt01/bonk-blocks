@@ -1,0 +1,10 @@
+# Rojo / luau-lsp generated
+sourcemap.json
+*.rbxl.lock
+*.rbxlx.lock
+
+# Local build outputs (keep your real place file wherever you save it)
+/build/
+
+# Third-party module you download yourself (see README); remove this line if you want it committed
+ServerPackages/ProfileStore.luau

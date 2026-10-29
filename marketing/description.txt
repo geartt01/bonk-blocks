@@ -1,0 +1,35 @@
+TITLE
+Bonk Blocks
+
+TAGLINE (social posts, group shout)
+Bonk giant mystery blocks, crush them for coins and collect cute Blocklings with friends!
+
+DESCRIPTION (paste into Creator Dashboard > your experience > Basic Info; under Roblox's 1000-character limit)
+🔨 BONK giant mystery blocks, crack them open for coins, and knock them into YOUR team's crusher!
+
+HOW TO PLAY
+• Tap BONK to swing your hammer
+• Crack blocks for coins, push them into your crusher for team points
+• 3-minute rounds, 2 teams (co-op when the server is small)
+
+COLLECT 12 BLOCKLINGS
+Cute block pets pop out of broken blocks and boost your coins. Hunt for rare Shiny and Rainbow ones!
+
+EVENTS ON EVERY SERVER AT ONCE
+• MEGA BLOCK boss every 30 minutes: everyone who helps gets a Blockling
+• Golden Rain, Moon Gravity, Meteor Shower, Coin Frenzy, Bonanza...
+• BONK PARTY every Saturday 18:00 UTC: nonstop Mega Blocks, x2 coins, x3 Blocklings!
+
+GET STRONGER
+Upgrade your hammer, Rebirth for permanent boosts, claim daily rewards and finish quests.
+
+PLAY WITH FRIENDS
+Every friend in your server gives +10% coins (up to +50%).
+
+👍 Like and ⭐ Favorite to get notified about updates!
+
+UPLOAD
+• icon.png (512 x 512) -> Places > Icon
+• thumbnail.png (1920 x 1080) -> Places > Thumbnails (add more later and A/B test them)
+• logo.png (transparent) -> group banner, social posts, YouTube Shorts end card
+• Genre: Party & Casual. Maturity questionnaire: no violence/blood (cartoon bonks only) -> Minimal
